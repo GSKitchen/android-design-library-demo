@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">KFC</string>
     <string name="create_order">নতুন অর্ডার</string>
+    <string name="title_top">হোম ফ্র্যাগমেন্ট</string>
 </resources>

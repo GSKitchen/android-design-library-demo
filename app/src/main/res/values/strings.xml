@@ -1,4 +1,20 @@
 <resources>
     <string name="app_name">KFC</string>
     <string name="create_order">Create Order</string>
+    <string name="title_top">Hello Top fragment</string>
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Sphaghetti Bolognese</item>
+        <item>Lasagne</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>Park St.</item>
+        <item>Newtown</item>
+    </string-array>
+
 </resources>
