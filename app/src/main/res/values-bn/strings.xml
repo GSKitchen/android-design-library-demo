@@ -3,4 +3,8 @@
     <string name="app_name">KFC</string>
     <string name="create_order">নতুন অর্ডার</string>
     <string name="title_top">হোম ফ্র্যাগমেন্ট</string>
+    <string name="pizza_tab">পিৎজা</string>
+    <string name="home_tab">হোম</string>
+    <string name="pasta_tab">পাস্তা</string>
+    <string name="store_tab">স্টোর</string>
 </resources>
