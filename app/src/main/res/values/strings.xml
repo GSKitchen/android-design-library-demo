@@ -6,6 +6,11 @@
     <string name="pizza_tab">Pizza</string>
     <string name="pasta_tab">Pasta</string>
     <string name="store_tab">Store</string>
+    <string name="company_name">KFC</string>
+    <string name="company_logo">KFC Logo</string>
+    <string name="about_us">Google Design is a cooperative effort led by a group of designers, writers, and developers at Google. We work across teams to publish original content, produce events, and foster creative and educational partnerships that advance design and technology. Google Design is a cooperative effort led by a group of designers, writers, and developers at Google. We work across teams to publish original content, produce events, and foster creative and educational partnerships that advance design and technology. Google Design is a cooperative effort led by a group of designers, writers, and developers at Google. We work across teams to publish original content, produce events, and foster creative and educational partnerships that advance design and technology.</string>
+    <string name="order_name_hint">Please enter your name</string>
+    <string name="order_detail_hint">Please enter your order</string>
 
 
     <string-array name="pizzas">

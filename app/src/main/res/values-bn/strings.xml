@@ -7,4 +7,7 @@
     <string name="home_tab">হোম</string>
     <string name="pasta_tab">পাস্তা</string>
     <string name="store_tab">স্টোর</string>
+    <string name="company_name">কে এফ সি</string>
+    <string name="order_name_hint">আপনার নাম এন্টার করুন</string>
+    <string name="order_detail_hint">আপনার অর্ডার লিখুন</string>
 </resources>
